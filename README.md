@@ -1,2 +1,2 @@
 # ICFOSS-IoT-Bootcamp
-IoT Camp files
+IoT BootCamp files
