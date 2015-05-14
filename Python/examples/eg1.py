@@ -1,0 +1,5 @@
+print "Hello World!"
+print "ICFOSS IoT Bootcamp"
+print "IEEE"
+print "FOSS"
+print "Ubuntu is better than Windows"
