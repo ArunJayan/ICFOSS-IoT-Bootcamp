@@ -5,3 +5,5 @@ print a
 print len(a)
 a.append(6)
 print a
+#we modify list contents
+
